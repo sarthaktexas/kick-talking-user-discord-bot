@@ -1,7 +1,9 @@
 {
-    userId: '',
-    username: '',
-    userDisplayName: '',
-    firstVoiceChannel: '',
-    secondVoiceChannel: ''
+    "userId": "",
+    "username": "",
+    'userDisplayName": "",
+    "firstVoiceChannel": "",
+    "secondVoiceChannel": "",
+    "token": "",
+    "timeout": "2000"
 }
