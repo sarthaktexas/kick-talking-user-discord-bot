@@ -1,0 +1,7 @@
+{
+    userId: '',
+    username: '',
+    userDisplayName: '',
+    firstVoiceChannel: '',
+    secondVoiceChannel: ''
+}
