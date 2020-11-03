@@ -10,7 +10,7 @@ This discord bot kicks a specified talking user.
 Common Errors:
 - `npm/node is not a command`: install here https://nodejs.org/en/download/
 - `FFMPEG is not found`: be sure to install it using the link or command above
-- `Opus something is not found`: run `npm install opus-stream @discordjs/opus`
+- `Opus something is not found`: run `npm install opusscript @discordjs/opus`
 - `Voice connection not established after 15 seconds`: downgrade `discord.js` to v11.0.0 by running `npm install discord.js@11.0.0`
   
 © Sarthak Mohanty 2020, MIT
